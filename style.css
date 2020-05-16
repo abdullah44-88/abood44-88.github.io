@@ -1,0 +1,222 @@
+		
+
+		@media (min-width: 992px) {
+
+			h1 {
+			text-align: center;
+		}
+
+		h3 {
+			border: 1px solid black;
+			display: inline-block;
+			padding: 2px 30px 4px 30px;
+			margin: 0px 0px 10px 10px;
+			float: right;
+		}
+
+		.row {
+			display: flex;
+			}
+
+		.onebox {
+			border: 2px solid black;
+			background-color: gray;
+			height: 150px;
+			width: 450px;
+			margin: 45px 0px 0px 20px;
+		}
+
+		.onebox span {
+			float: right;
+			margin-left: 10px;
+			margin-right: 40px
+		}
+
+
+		.onebox h3 {
+			background-color: pink;
+		}
+
+		.twobox {
+			border: 2px solid black;
+			background-color: gray;
+			height: 150px;
+			width: 450px;
+			margin:45px 0px 0px 20px;
+		}
+
+		.twobox span {
+			float: right;
+			margin-left: 10px;
+			margin-right: 40px
+		}
+
+		.twobox h3 {
+			background-color: tomato;
+		}
+
+		.threebox {
+			border: 2px solid black;
+			background-color: gray;
+			height: 150px;
+			width: 450px;
+			margin: 45px 0px 0px 20px;
+		}
+
+		.threebox span {
+			float: right;
+			margin-left: 10px;
+			margin-right: 40px
+		}
+
+		.threebox h3 {
+			background-color: yellow
+		}
+
+	}
+	@media (max-width: 991px) and (min-width: 768px) {
+
+	h1 {
+		text-align: center;
+	}
+
+	div  {
+			float:left;
+		}
+
+		h3 {
+			border: 1px solid black;
+			display: inline-block;
+			padding: 2px 30px 4px 30px;
+			margin: 0px 0px 10px 10px;
+			float: right;
+		}
+
+		.onebox {
+			border: 2px solid black;
+			background-color: gray;
+			width: 350px;
+			height: 150px;
+			margin: 0px 0px 0px 70px;
+		}
+
+		.onebox span {
+			float: right;
+			margin-left: 10px;
+			margin-right: 40px;
+		}
+
+		.onebox h3 {
+			background-color: pink;
+		}
+
+		.twobox {
+			border: 2px solid black;
+			background-color: gray;
+			width: 350px;
+			height: 150px;
+			margin: 0px 0px 0px 20px
+		}
+
+		.twobox span {
+			float: right;
+			margin-left: 10px;
+			margin-right: 40px;
+		}
+
+		.twobox h3 {
+			background-color: tomato;
+		}
+
+		.threebox {
+			border: 2px solid black;
+			background-color: gray;
+			width: 724px;
+			height: 150px;
+			margin: 16px 0px 0px 70px;
+			
+		}
+
+		.threebox span {
+			float: right;
+			margin-left: 10px;
+			margin-right: 40px;
+		}
+
+		.threebox h3 {
+			background-color: yellow;
+		}
+	}
+
+@media (max-width: 767px) {
+
+	body {
+		margin: 0px;
+		padding: 0px;
+	}
+
+	h1 {
+		text-align: center;
+	}
+
+		h3 {
+			border: 1px solid black;
+			display: inline-block;
+			padding: 2px 30px 4px 30px;
+			margin: 0px 0px 10px 10px;
+			float: right;
+		}
+
+		.onebox {
+			border: 2px solid black;
+			background-color: gray;
+			width: 450px;
+			height: 150px;
+			margin: 0px 0px 16px 100px;
+		}
+
+		.onebox span {
+			float: right;
+			margin: 0px 40px 0px 10px;
+		}
+
+		.onebox h3 {
+			background-color: pink;
+		}
+
+		.twobox {
+			border: 2px solid black;
+			background-color: gray;
+			width: 450px;
+			height: 150px;
+			margin: 0px 0px 16px 100px; 
+		}
+
+		.twobox span {
+			float: right;
+			margin: 0px 40px 0px 10px;
+		}
+
+		.twobox h3 {
+			background-color: tomato;
+		}
+
+		.threebox {
+			border: 2px solid black;
+			background-color: gray;
+			width: 450px;
+			height: 150px;
+			margin: 0px 0px 16px 100px;
+		}
+
+		.threebox span {
+			float: right;
+			margin: 0px 40px 0px 10px; 
+		}
+
+		.threebox h3 {
+			background-color: yellow;
+		}
+}
+
+		
